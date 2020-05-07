@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbe2a627-f40c-4cbc-ada5-18294591ab26" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bNfuUU1PJLnjn9y3k13w193C4K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Madison\PycharmProjects\Assign2\mfscrm\crm\static" />
+      <recent name="C:\Users\Madison\PycharmProjects\Assign2\mfscrm\crm\templates\registration" />
+      <recent name="C:\Users\Madison\PycharmProjects\Assign2\mfscrm\crm" />
+      <recent name="C:\Users\Madison\PycharmProjects\Assign2\mfscrm\crm\migrations" />
+      <recent name="C:\Users\Madison\PycharmProjects\Assign2\mfscrm\crm\templates" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbe2a627-f40c-4cbc-ada5-18294591ab26" name="Default Changelist" comment="" />
+      <created>1588477694591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588477694591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2339" y="507" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588704504909">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2339" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400/-3440.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1588704504909" />
+    <state x="2339" y="507" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1588563477869" />
+    <state x="2360" y="463" key="FileChooserDialogImpl" timestamp="1588487363624">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="2360" y="463" key="FileChooserDialogImpl/0.0.3440.1400/-3440.0.3440.1400@0.0.3440.1400" timestamp="1588487363624" />
+    <state x="-5" y="5" width="1288" height="1068" key="dock-window-1" timestamp="1588783995785">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="-5" y="5" width="1288" height="1068" key="dock-window-1/0.0.3440.1400/-3440.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1588783995785" />
+    <state x="-1585" y="197" width="1288" height="1080" key="dock-window-2" timestamp="1588787581871">
+      <screen x="-3440" y="0" width="3440" height="1400" />
+    </state>
+    <state x="-1585" y="197" width="1288" height="1080" key="dock-window-2/0.0.3440.1400/-3440.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1588787581871" />
+    <state x="3465" y="117" width="1288" height="1064" key="dock-window-3" timestamp="1588790085364">
+      <screen x="3440" y="0" width="1920" height="1040" />
+    </state>
+    <state x="479" y="41" width="1288" height="1064" key="dock-window-3/0.0.3440.1400/-3440.0.3440.1400/3440.0.1920.1040@0.0.3440.1400" timestamp="1588789777751" />
+    <state x="3465" y="117" width="1288" height="1064" key="dock-window-3/0.0.3440.1400/-3440.0.3440.1400/3440.0.1920.1040@3440.0.1920.1040" timestamp="1588790085364" />
+  </component>
+</project>
